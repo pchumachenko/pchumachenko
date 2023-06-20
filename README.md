@@ -1,1 +1,0 @@
-# ABISENSE Icy *** Plugin
